@@ -1,0 +1,114 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "title": "Apple Store Purchase",
+      "amount": 999.0,
+      "type": "outgoing",
+      "category": "shopping",
+      "date": "2024-12-30",
+      "time": "14:45",
+      "status": "completed",
+      "description": "iPhone 15 Pro Max"
+    },
+    {
+      "id": "2",
+      "title": "Salary Deposit",
+      "amount": 4500.0,
+      "type": "incoming",
+      "category": "salary",
+      "date": "2024-12-30",
+      "time": "09:00",
+      "status": "completed",
+      "description": "Monthly salary deposit"
+    },
+    {
+      "id": "3",
+      "title": "Netflix Subscription",
+      "amount": 15.99,
+      "type": "outgoing",
+      "category": "entertainment",
+      "date": "2024-12-29",
+      "time": "12:00",
+      "status": "pending",
+      "description": "Monthly subscription"
+    },
+    {
+      "id": "4",
+      "title": "Grocery Shopping",
+      "amount": 125.5,
+      "type": "outgoing",
+      "category": "food",
+      "date": "2024-12-28",
+      "time": "18:30",
+      "status": "completed",
+      "description": "Weekly groceries"
+    },
+    {
+      "id": "5",
+      "title": "Freelance Payment",
+      "amount": 750.0,
+      "type": "incoming",
+      "category": "freelance",
+      "date": "2024-12-27",
+      "time": "10:15",
+      "status": "completed",
+      "description": "Web development project"
+    },
+    {
+      "id": "6",
+      "title": "Uber Ride",
+      "amount": 28.75,
+      "type": "outgoing",
+      "category": "transport",
+      "date": "2024-12-27",
+      "time": "20:45",
+      "status": "completed",
+      "description": "Ride to airport"
+    },
+    {
+      "id": "7",
+      "title": "Coffee Shop",
+      "amount": 12.5,
+      "type": "outgoing",
+      "category": "food",
+      "date": "2024-12-26",
+      "time": "08:30",
+      "status": "completed",
+      "description": "Morning coffee"
+    },
+    {
+      "id": "8",
+      "title": "Dividend Payment",
+      "amount": 235.0,
+      "type": "incoming",
+      "category": "investment",
+      "date": "2024-12-25",
+      "time": "09:00",
+      "status": "completed",
+      "description": "Quarterly dividend"
+    },
+    {
+      "id": "9",
+      "title": "Gas Station",
+      "amount": 45.2,
+      "type": "outgoing",
+      "category": "transport",
+      "date": "2024-12-24",
+      "time": "16:20",
+      "status": "completed",
+      "description": "Fuel for car"
+    },
+    {
+      "id": "10",
+      "title": "Restaurant Dinner",
+      "amount": 85.3,
+      "type": "outgoing",
+      "category": "food",
+      "date": "2024-12-23",
+      "time": "19:45",
+      "status": "completed",
+      "description": "Dinner with friends"
+    }
+  ]
+}

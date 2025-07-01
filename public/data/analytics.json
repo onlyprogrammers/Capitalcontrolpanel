@@ -1,0 +1,59 @@
+{
+  "analytics": {
+    "monthlySummary": {
+      "totalIncome": 5485.0,
+      "totalExpenses": 1920.24,
+      "netIncome": 3564.76,
+      "savingsRate": 65.0
+    },
+    "categoryBreakdown": [
+      {
+        "category": "food",
+        "amount": 223.3,
+        "percentage": 11.6
+      },
+      {
+        "category": "shopping",
+        "amount": 999.0,
+        "percentage": 52.0
+      },
+      {
+        "category": "transport",
+        "amount": 73.95,
+        "percentage": 3.9
+      },
+      {
+        "category": "entertainment",
+        "amount": 15.99,
+        "percentage": 0.8
+      },
+      {
+        "category": "health",
+        "amount": 125.0,
+        "percentage": 6.5
+      }
+    ],
+    "weeklyTrend": [
+      {
+        "week": "Week 1",
+        "income": 1371.25,
+        "expenses": 480.06
+      },
+      {
+        "week": "Week 2",
+        "income": 1371.25,
+        "expenses": 480.06
+      },
+      {
+        "week": "Week 3",
+        "income": 1371.25,
+        "expenses": 480.06
+      },
+      {
+        "week": "Week 4",
+        "income": 1371.25,
+        "expenses": 480.06
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "budgets": [
+    {
+      "id": "1",
+      "category": "food",
+      "budget": 500.0,
+      "spent": 325.25,
+      "remaining": 174.75,
+      "percentage": 65,
+      "month": "December 2024"
+    },
+    {
+      "id": "2",
+      "category": "transport",
+      "budget": 200.0,
+      "spent": 145.5,
+      "remaining": 54.5,
+      "percentage": 73,
+      "month": "December 2024"
+    },
+    {
+      "id": "3",
+      "category": "entertainment",
+      "budget": 150.0,
+      "spent": 89.99,
+      "remaining": 60.01,
+      "percentage": 60,
+      "month": "December 2024"
+    },
+    {
+      "id": "4",
+      "category": "shopping",
+      "budget": 800.0,
+      "spent": 1234.5,
+      "remaining": -434.5,
+      "percentage": 154,
+      "month": "December 2024"
+    },
+    {
+      "id": "5",
+      "category": "health",
+      "budget": 300.0,
+      "spent": 125.0,
+      "remaining": 175.0,
+      "percentage": 42,
+      "month": "December 2024"
+    }
+  ]
+}

@@ -28,7 +28,7 @@ import Link from "next/link"
 import { useState } from "react"
 import Image from "next/image"
 import { usePathname } from "next/navigation"
-import mainlogo from "@/components/images/logos/mainlogo.png"
+import mainlogo from "@/components/images/logos/mainlogo.PNG"
 
 export default function Sidebar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
